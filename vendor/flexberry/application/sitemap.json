@@ -1,12 +1,12 @@
 ﻿{
-  "applicationCaption": "My ember",
+  "applicationCaption": "My ember2",
   "applicationTitle": "My ember",
   "items": [
     {
       "link": null,
-      "menuName": "my-ember",
-      "caption": "MyEmber",
-      "title": "MyEmber",
+      "menuName": "my-ember2",
+      "caption": "MyEmber2",
+      "title": "MyEmber2",
       "children": [
         {
           "link": "i-i-s-my-test-application-ember-type-l",
