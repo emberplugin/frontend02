@@ -13,17 +13,17 @@ export default Ember.Controller.extend({
           children: null
         }, {
           link: null,
-          caption: i18n.t('forms.application.sitemap.my-ember.caption'),
-          title: i18n.t('forms.application.sitemap.my-ember.title'),
+          caption: i18n.t('forms.application.sitemap.my-ember2.caption'),
+          title: i18n.t('forms.application.sitemap.my-ember2.title'),
           children: [{
             link: 'i-i-s-my-test-application-ember-type-l',
-            caption: i18n.t('forms.application.sitemap.my-ember.i-i-s-my-test-application-ember-type-l.caption'),
-            title: i18n.t('forms.application.sitemap.my-ember.i-i-s-my-test-application-ember-type-l.title'),
+            caption: i18n.t('forms.application.sitemap.my-ember2.i-i-s-my-test-application-ember-type-l.caption'),
+            title: i18n.t('forms.application.sitemap.my-ember2.i-i-s-my-test-application-ember-type-l.title'),
             children: null
           }, {
             link: 'i-i-s-my-test-application-ember-computer-l',
-            caption: i18n.t('forms.application.sitemap.my-ember.i-i-s-my-test-application-ember-computer-l.caption'),
-            title: i18n.t('forms.application.sitemap.my-ember.i-i-s-my-test-application-ember-computer-l.title'),
+            caption: i18n.t('forms.application.sitemap.my-ember2.i-i-s-my-test-application-ember-computer-l.caption'),
+            title: i18n.t('forms.application.sitemap.my-ember2.i-i-s-my-test-application-ember-computer-l.title'),
             children: null
           }]
         }
