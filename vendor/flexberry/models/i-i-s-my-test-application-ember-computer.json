@@ -46,6 +46,14 @@
       "stored": true
     },
     {
+      "name": "description4",
+      "type": "string",
+      "flexberryType": "StringMax",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true
+    },
+    {
       "name": "createTime",
       "type": "date",
       "flexberryType": "AuditNullableDateTime",
