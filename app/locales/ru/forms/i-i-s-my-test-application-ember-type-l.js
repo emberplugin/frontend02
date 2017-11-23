@@ -1,3 +1,3 @@
 export default {
-  caption: 'Type2'
+  caption: 'Type'
 };

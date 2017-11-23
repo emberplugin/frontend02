@@ -1,3 +1,3 @@
 export default {
-  caption: 'Computer2'
+  caption: 'Computer'
 };

@@ -83,9 +83,9 @@ Ember.$.extend(true, translations, {
           caption: 'Home',
           title: ''
         },
-        'my-ember3': {
-          caption: 'my-ember3',
-          title: 'my-ember3',
+        'my-ember': {
+          caption: 'my-ember',
+          title: 'my-ember',
           'i-i-s-my-test-application-ember-type-l': {
             caption: 'i-i-s-my-test-application-ember-type-l',
             title: 'i-i-s-my-test-application-ember-type-l',

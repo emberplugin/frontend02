@@ -6,8 +6,6 @@ export let Model = Ember.Mixin.create({
   manufactureDate: DS.attr('date'),
   type: DS.attr('i-i-s-my-test-application-ember-computer-type'),
   description: DS.attr('string'),
-  description3: DS.attr('string'),
-  description4: DS.attr('string'),
   createTime: DS.attr('date'),
   creator: DS.attr('string'),
   editTime: DS.attr('date'),

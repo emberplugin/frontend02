@@ -19,7 +19,7 @@ Ember.$.extend(true, translations, {
     'i-i-s-my-test-application-ember-type': IISMyTestApplicationEmberTypeModel,
   },
 
-  'application-name': 'My ember3',
+  'application-name': 'My ember',
 
   forms: {
     loading: {
@@ -59,7 +59,7 @@ Ember.$.extend(true, translations, {
       },
 
       footer: {
-        'application-name': 'My ember3',
+        'application-name': 'My ember',
         'application-version': {
           caption: 'Версия аддона {{version}}',
           title: 'Это версия аддона ember-flexberry, которая сейчас используется в этом тестовом приложении ' +
@@ -70,7 +70,7 @@ Ember.$.extend(true, translations, {
 
       sitemap: {
         'application-name': {
-          caption: 'My ember3',
+          caption: 'My ember',
           title: 'My ember'
         },
         'application-version': {
@@ -83,9 +83,9 @@ Ember.$.extend(true, translations, {
           caption: 'Главная',
           title: ''
         },
-        'my-ember3': {
-          caption: 'MyEmber3',
-          title: 'MyEmber3',
+        'my-ember': {
+          caption: 'MyEmber',
+          title: 'MyEmber',
           'i-i-s-my-test-application-ember-type-l': {
             caption: 'Type',
             title: '',
